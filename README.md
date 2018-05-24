@@ -24,7 +24,7 @@ The hardware consists of
 
 - a neonious one Technology Preview board
 - a servo motor (a motor which you can position at any angle)
-- a distance sensor
+- a distance sensor mounted onto the servo motor with glue
 - a 5 V power supply
 
 The servo motor is just one I picked of the shelf. You can take any one, as the protocol is standarized (one pulse of about 1 ms to position the servo).
